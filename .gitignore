@@ -2,3 +2,6 @@
 Debug
 x64
 MatchesGame.sln
+MatchesGame/cProject.vcxproj
+MatchesGame/cProject.vcxproj.filters
+MatchesGame/cProject.vcxproj.user
